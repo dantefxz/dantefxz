@@ -18,5 +18,5 @@ Libraries, frameworks, and build tools I've used throughout my development journ
 
 ## Summary
 I started developing video games in Roblox and still do today.<br>
-At university, I focused on full-stack web development and relational SQL databases, and I’ve expanded my experience by building my own projects. <br>
+At university, I focused on full-stack web development and databases, and I’ve expanded my experience by building my own projects. <br>
 I’m constantly learning new technologies and programming languages.
